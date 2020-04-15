@@ -6,7 +6,7 @@ import java.rmi.server.UnicastRemoteObject;
 
 /**
  * @author Henry
- * Created by Tommy on 2020/04/15
+ * Created by Henry on 2020/04/15
  **/
 public class UserServiceImpl extends UnicastRemoteObject implements UserService {
 

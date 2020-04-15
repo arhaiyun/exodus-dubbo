@@ -10,7 +10,7 @@ import java.rmi.registry.Registry;
 
 /**
  * @author Henry
- * Created by Tommy on 2020/04/15
+ * Created by Henry on 2020/04/15
  **/
 public class RmiClient {
     public static void main(String[] args) throws RemoteException, NotBoundException, MalformedURLException {

@@ -8,7 +8,7 @@ import java.rmi.RemoteException;
 
 /**
  * @author Henry
- * Created by Tommy on 2020/04/15
+ * Created by Henry on 2020/04/15
  **/
 public class RmiServer {
     public static void main(String[] args) throws IOException, AlreadyBoundException {
